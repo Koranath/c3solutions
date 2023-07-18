@@ -40,7 +40,9 @@ Overall, AutoXchange can gain a competitive advantage in the rapidly changing au
 # References :
 Boss, G., Malladi, P., Quan, D., Legregni, L. and Hall, H., 2007. Cloud computing. IBM white paper, 321, pp.224-231.
 Yang, H. and Tate, M., 2012. A descriptive literature review and classification of cloud computing research. Communications of the Association for Information systems, 31(1), p.2.
+
 Fehling, C., Leymann, F., Retter, R., Schupeck, W. and Arbitter, P., 2014. Cloud computing patterns: fundamentals to design, build, and manage cloud applications. Springer Science & Business Media.
+
 Voorsluys, W., Broberg, J. and Buyya, R., 2011. Introduction to cloud computing. Cloud computing: Principles and paradigms, pp.1-41.
 Pearson, S., 2009, May. Taking account of privacy when designing cloud computing services. In 2009 ICSE Workshop on Software Engineering Challenges of Cloud Computing (pp. 44-52). IEEE.
 
